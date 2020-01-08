@@ -1,0 +1,113 @@
+[[Chemfiles]]
+arch = "i686"
+git-tree-sha1 = "e1a5a2248d6894063a6c5622beb88e02c929f146"
+libc = "glibc"
+os = "linux"
+
+    [[Chemfiles.download]]
+    sha256 = "b749510261a2892842bf0d6355fcdc7b912ea4ad59e565c577e02373df6f10c2"
+    url = "https://github.com/JuliaBinaryWrappers/Chemfiles_jll.jl/releases/download/Chemfiles-v0.9.2+0/Chemfiles.v0.9.2.i686-linux-gnu.tar.gz"
+[[Chemfiles]]
+arch = "i686"
+git-tree-sha1 = "3beb986b3404de64867869e5504ff9b54f3f1287"
+libc = "musl"
+os = "linux"
+
+    [[Chemfiles.download]]
+    sha256 = "75063187855ec81be2dfd76f130779d92486664798236e192e665f84fc3d1b28"
+    url = "https://github.com/JuliaBinaryWrappers/Chemfiles_jll.jl/releases/download/Chemfiles-v0.9.2+0/Chemfiles.v0.9.2.i686-linux-musl.tar.gz"
+[[Chemfiles]]
+arch = "x86_64"
+git-tree-sha1 = "c99bc47b051fc17ffc259caaf440b2903b2e8f32"
+os = "macos"
+
+    [[Chemfiles.download]]
+    sha256 = "fc95465bd30b5153b4a6f151a653d6b64f656a77fa1b5e5ed0525997a28efe4a"
+    url = "https://github.com/JuliaBinaryWrappers/Chemfiles_jll.jl/releases/download/Chemfiles-v0.9.2+0/Chemfiles.v0.9.2.x86_64-apple-darwin14.tar.gz"
+[[Chemfiles]]
+arch = "powerpc64le"
+git-tree-sha1 = "87e6cdcac1e49a31caad952dcff9567087920be0"
+libc = "glibc"
+os = "linux"
+
+    [[Chemfiles.download]]
+    sha256 = "d89bfd8e1b2a070991aac5334fd9971fa37f2582692b7bdc01b1527624db1668"
+    url = "https://github.com/JuliaBinaryWrappers/Chemfiles_jll.jl/releases/download/Chemfiles-v0.9.2+0/Chemfiles.v0.9.2.powerpc64le-linux-gnu.tar.gz"
+[[Chemfiles]]
+arch = "aarch64"
+git-tree-sha1 = "f6aaff6774bd57c6462bb5155a56fab94d7437ea"
+libc = "glibc"
+os = "linux"
+
+    [[Chemfiles.download]]
+    sha256 = "482cbc3f4ea49ec9ae200e601917064797f1bbf62b9944a64c589ea3296d3769"
+    url = "https://github.com/JuliaBinaryWrappers/Chemfiles_jll.jl/releases/download/Chemfiles-v0.9.2+0/Chemfiles.v0.9.2.aarch64-linux-gnu.tar.gz"
+[[Chemfiles]]
+arch = "x86_64"
+git-tree-sha1 = "98c071de86420ad08666c925c98e17299d3a127a"
+libc = "musl"
+os = "linux"
+
+    [[Chemfiles.download]]
+    sha256 = "2d2154479b4431a98c711a671bf085b39789756eab407c3ec5eab171f28b9d40"
+    url = "https://github.com/JuliaBinaryWrappers/Chemfiles_jll.jl/releases/download/Chemfiles-v0.9.2+0/Chemfiles.v0.9.2.x86_64-linux-musl.tar.gz"
+[[Chemfiles]]
+arch = "aarch64"
+git-tree-sha1 = "dc28c8fe01d5b6479d471f37e8d4b4f3035f3796"
+libc = "musl"
+os = "linux"
+
+    [[Chemfiles.download]]
+    sha256 = "77d07eaef81974323f23c01556b76ad337e7fb983ef373b11dcdd2a0a6ca5546"
+    url = "https://github.com/JuliaBinaryWrappers/Chemfiles_jll.jl/releases/download/Chemfiles-v0.9.2+0/Chemfiles.v0.9.2.aarch64-linux-musl.tar.gz"
+[[Chemfiles]]
+arch = "armv7l"
+git-tree-sha1 = "bb654364cfe7a6d50956e0fd79bd404fc2754cf1"
+libc = "musl"
+os = "linux"
+
+    [[Chemfiles.download]]
+    sha256 = "cc2049020ad3ba4ea5dc2ac403dd7612f0bd256fdf58d9db31f3a7912ecf59f7"
+    url = "https://github.com/JuliaBinaryWrappers/Chemfiles_jll.jl/releases/download/Chemfiles-v0.9.2+0/Chemfiles.v0.9.2.arm-linux-musleabihf.tar.gz"
+[[Chemfiles]]
+arch = "i686"
+git-tree-sha1 = "31786dff176fd48f355812858f8a8f3ed2c05655"
+os = "windows"
+
+    [[Chemfiles.download]]
+    sha256 = "902a277ec12077c631ab13a5f2c4a5a13761ca6244d31c75b56b5fcf75004e0c"
+    url = "https://github.com/JuliaBinaryWrappers/Chemfiles_jll.jl/releases/download/Chemfiles-v0.9.2+0/Chemfiles.v0.9.2.i686-w64-mingw32.tar.gz"
+[[Chemfiles]]
+arch = "x86_64"
+git-tree-sha1 = "9271d3b09c02b46b12af718ae17aacbf35c1d6da"
+os = "freebsd"
+
+    [[Chemfiles.download]]
+    sha256 = "1c6ffe38adcd4a1e0cb7eec503e1ec17b2607cf8fd241b78ee5b6121e3ca193f"
+    url = "https://github.com/JuliaBinaryWrappers/Chemfiles_jll.jl/releases/download/Chemfiles-v0.9.2+0/Chemfiles.v0.9.2.x86_64-unknown-freebsd11.1.tar.gz"
+[[Chemfiles]]
+arch = "armv7l"
+git-tree-sha1 = "86844980710fb150fcef657fd01f8c392940d4b9"
+libc = "glibc"
+os = "linux"
+
+    [[Chemfiles.download]]
+    sha256 = "dd59e04b37df70091a47c1834ac80c4c50d1ef0ecdd835a405da0474aa23cbd3"
+    url = "https://github.com/JuliaBinaryWrappers/Chemfiles_jll.jl/releases/download/Chemfiles-v0.9.2+0/Chemfiles.v0.9.2.arm-linux-gnueabihf.tar.gz"
+[[Chemfiles]]
+arch = "x86_64"
+git-tree-sha1 = "f618aaae2e06edacf40e5cb0e09f532298a688bc"
+libc = "glibc"
+os = "linux"
+
+    [[Chemfiles.download]]
+    sha256 = "570ef2893f719cfad7d475f76dd4b4561b88770677c4210150b939895fa5d044"
+    url = "https://github.com/JuliaBinaryWrappers/Chemfiles_jll.jl/releases/download/Chemfiles-v0.9.2+0/Chemfiles.v0.9.2.x86_64-linux-gnu.tar.gz"
+[[Chemfiles]]
+arch = "x86_64"
+git-tree-sha1 = "791ede0adee17616fa62fefebb07c0e988b142c3"
+os = "windows"
+
+    [[Chemfiles.download]]
+    sha256 = "0d4e7926cc575145e3658afb7514f2c9c1585974ca25488aa64a83787fa2f8fc"
+    url = "https://github.com/JuliaBinaryWrappers/Chemfiles_jll.jl/releases/download/Chemfiles-v0.9.2+0/Chemfiles.v0.9.2.x86_64-w64-mingw32.tar.gz"
