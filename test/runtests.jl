@@ -1,4 +1,6 @@
-using Libdl, Pkg, Pkg.Artifacts
+using Libdl, Pkg, Pkg.Artifacts, Pkg.BinaryPlatforms
+
+@show platform_key_abi()
 
 @show dllist()
 
